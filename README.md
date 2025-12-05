@@ -19,6 +19,5 @@ Skills: WORD / ZOTERO/ PYTHON /EXCEL
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruddromondol2025-web)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/ruddromondol2025-web)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ruddromondol2025-web)  
+  
 
