@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ruddro Mondol
+### Hi my name is Ruddro Mondol👋
 #### I am student and a researcher in Physics (Astronomy)
 ![I am student and a researcher in Physics (Astronomy)](https://avatars.githubusercontent.com/u/248028693?v=4)
 
