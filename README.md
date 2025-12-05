@@ -14,7 +14,11 @@ Skills: WORD / ZOTERO/ PYTHON /EXCEL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ruddromondol2025-web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ruddro-mondol-74b082349?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FofVN19QQbu8jlY21tpWYw%3D%3D/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddromondol2025-web)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddromondol2025-web&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ruddromondol2025-web)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/ruddromondol2025-web)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ruddromondol2025-web)  
 
